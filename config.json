@@ -1,0 +1,14 @@
+{
+  "appId": {
+	"label": "Application ID",
+	"type": "String",
+	"required": true,
+	"help": "The Microsoft LUIS Application ID."
+  },
+  "apiKey": {
+	"label": "API Key",
+	"type": "String",
+	"required": true,
+	"help": "The Microsoft LUIS API Key."
+  }
+}
